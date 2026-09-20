@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile>
+  <diagram name="Page-1" id="zrN2upUYrJpMAd03Lcwr">
+    <mxGraphModel dx="2038" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-1" value="Научник" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="130" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-3" value="Презиме" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="5" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-4" value="научно&lt;div&gt;звање&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry y="120" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-5" value="бр.цитати" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry y="160" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-1" target="mEneXM_A7nQ-SZZgnG81-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="270" as="sourcePoint" />
+            <mxPoint x="73.495700561572" y="66.60935948804774" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-3" target="mEneXM_A7nQ-SZZgnG81-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="140" as="sourcePoint" />
+            <mxPoint x="444" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-4" target="mEneXM_A7nQ-SZZgnG81-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="140" as="sourcePoint" />
+            <mxPoint x="374" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-1" target="mEneXM_A7nQ-SZZgnG81-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="110" as="sourcePoint" />
+            <mxPoint x="434" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-10" value="Универзитет" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-11" value="Име" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry y="40" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-14" value="шифра" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="30" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-14" target="mEneXM_A7nQ-SZZgnG81-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="140" as="sourcePoint" />
+            <mxPoint x="364" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-16" value="работи за" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="90" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-1" target="mEneXM_A7nQ-SZZgnG81-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="290" as="sourcePoint" />
+            <mxPoint x="250" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-20" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mEneXM_A7nQ-SZZgnG81-17">
+          <mxGeometry x="-0.0125" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-16" target="mEneXM_A7nQ-SZZgnG81-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="160" as="sourcePoint" />
+            <mxPoint x="460" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-21" value="M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mEneXM_A7nQ-SZZgnG81-19">
+          <mxGeometry x="-0.0767" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-22" value="датум од" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-23" value="датум до" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-22" target="mEneXM_A7nQ-SZZgnG81-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="270" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-16" target="mEneXM_A7nQ-SZZgnG81-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="130" as="sourcePoint" />
+            <mxPoint x="470" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-26" value="Конференција" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="350" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-27" value="Име" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="300" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-29" value="Спонзори" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="300" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-27" target="mEneXM_A7nQ-SZZgnG81-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="280" as="sourcePoint" />
+            <mxPoint x="450" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-26" target="mEneXM_A7nQ-SZZgnG81-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="300" as="sourcePoint" />
+            <mxPoint x="310" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-33" value="Област" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="350" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-34" value="Име" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="620" y="300" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-35" value="формат" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="620" y="340" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-37" value="опфаќа" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="355" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-41" target="mEneXM_A7nQ-SZZgnG81-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="366.42857142857156" as="sourcePoint" />
+            <mxPoint x="140" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-76" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mEneXM_A7nQ-SZZgnG81-38">
+          <mxGeometry x="0.0444" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-37" target="mEneXM_A7nQ-SZZgnG81-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="430" as="sourcePoint" />
+            <mxPoint x="400" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-77" value="M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mEneXM_A7nQ-SZZgnG81-39">
+          <mxGeometry x="-0.0852" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-41" value="Конференција&lt;br&gt;Настан" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="130" y="350" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-43" value="" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="20" y="350" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-44" value="" style="endArrow=none;html=1;rounded=0;shape=link;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-43" target="mEneXM_A7nQ-SZZgnG81-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="360" as="sourcePoint" />
+            <mxPoint x="470" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-47" value="M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mEneXM_A7nQ-SZZgnG81-44">
+          <mxGeometry x="0.0133" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-45" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-26" target="mEneXM_A7nQ-SZZgnG81-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-60" y="450" as="sourcePoint" />
+            <mxPoint x="70" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-46" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mEneXM_A7nQ-SZZgnG81-45">
+          <mxGeometry x="0.1133" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-48" value="датум од" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-51" value="датум до" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-52" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-48" target="mEneXM_A7nQ-SZZgnG81-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="340" as="sourcePoint" />
+            <mxPoint x="270" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-53" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-51" target="mEneXM_A7nQ-SZZgnG81-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="320" as="sourcePoint" />
+            <mxPoint x="370" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-54" value="Локација" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="280" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-41" target="mEneXM_A7nQ-SZZgnG81-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="380" as="sourcePoint" />
+            <mxPoint x="330" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-56" value="Рецезент" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="130" y="520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-57" value="Име" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="40" y="580" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-59" value="Презиме" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="130" y="580" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-61" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-33" target="mEneXM_A7nQ-SZZgnG81-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="300" as="sourcePoint" />
+            <mxPoint x="620" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-62" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-33" target="mEneXM_A7nQ-SZZgnG81-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="390" as="sourcePoint" />
+            <mxPoint x="700" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-63" value="год. искуство" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="580" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-64" value="специјализира во" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="475" y="515" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-65" value="" style="endArrow=none;html=1;rounded=0;shape=link;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-56" target="mEneXM_A7nQ-SZZgnG81-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="440" as="sourcePoint" />
+            <mxPoint x="470" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-67" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mEneXM_A7nQ-SZZgnG81-65">
+          <mxGeometry x="0.068" y="-2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-66" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-33" target="mEneXM_A7nQ-SZZgnG81-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="530" as="sourcePoint" />
+            <mxPoint x="520" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-68" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mEneXM_A7nQ-SZZgnG81-66">
+          <mxGeometry x="-0.0693" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-69" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-56" target="mEneXM_A7nQ-SZZgnG81-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="580" as="sourcePoint" />
+            <mxPoint x="130" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-70" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-56" target="mEneXM_A7nQ-SZZgnG81-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="600" as="sourcePoint" />
+            <mxPoint x="230" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-71" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-56" target="mEneXM_A7nQ-SZZgnG81-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="590" as="sourcePoint" />
+            <mxPoint x="290" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-78" value="рецензира" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="140" y="430" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-79" value="" style="endArrow=none;html=1;rounded=0;shape=link;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-41" target="mEneXM_A7nQ-SZZgnG81-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="400" as="sourcePoint" />
+            <mxPoint x="390" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-81" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mEneXM_A7nQ-SZZgnG81-79">
+          <mxGeometry x="-0.1333" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-80" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-56" target="mEneXM_A7nQ-SZZgnG81-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="510" as="sourcePoint" />
+            <mxPoint x="390" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-82" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mEneXM_A7nQ-SZZgnG81-80">
+          <mxGeometry x="-0.16" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-84" value="бр. трудови" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="450" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-85" value="испраќа труд" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="290" y="210" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-86" value="M" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-1" target="mEneXM_A7nQ-SZZgnG81-85">
+          <mxGeometry x="0.0069" relative="1" as="geometry">
+            <mxPoint x="210" y="270" as="sourcePoint" />
+            <mxPoint x="340" y="270" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-88" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-85" target="mEneXM_A7nQ-SZZgnG81-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="190" as="sourcePoint" />
+            <mxPoint x="660" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-89" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mEneXM_A7nQ-SZZgnG81-88">
+          <mxGeometry x="0.0256" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-90" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-41" target="mEneXM_A7nQ-SZZgnG81-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="340" as="sourcePoint" />
+            <mxPoint x="280" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-91" value="P" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mEneXM_A7nQ-SZZgnG81-90">
+          <mxGeometry x="-0.1776" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-93" value="наслов" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-94" value="статус" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="385" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-95" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-85" target="mEneXM_A7nQ-SZZgnG81-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="220" as="sourcePoint" />
+            <mxPoint x="420" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-96" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-85" target="mEneXM_A7nQ-SZZgnG81-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="220" as="sourcePoint" />
+            <mxPoint x="450" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEneXM_A7nQ-SZZgnG81-97" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="mEneXM_A7nQ-SZZgnG81-84" target="mEneXM_A7nQ-SZZgnG81-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="360" as="sourcePoint" />
+            <mxPoint x="470" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
